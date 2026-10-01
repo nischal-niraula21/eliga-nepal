@@ -1,0 +1,26 @@
+{
+  "name": "eLeague Nepal",
+  "short_name": "eLeague",
+  "description": "Play competitive eFootball, Free Fire, PUBG Mobile and FC Mobile matches in Nepal with one wallet and verified payouts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f6fc",
+  "theme_color": "#6f3ff5",
+  "categories": ["games", "sports"],
+  "icons": [
+    {
+      "src": "/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
